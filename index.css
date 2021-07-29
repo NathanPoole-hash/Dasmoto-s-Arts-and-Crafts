@@ -1,6 +1,9 @@
 body {
     border-style: solid;
     border-color: red;
+    margin:20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .pattern {
@@ -16,4 +19,37 @@ h1 {
     color: khaki;
     text-align:center;
     width: 100%;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.red {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+h2 {
+    font-family: Helvectica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+p {
+    font-family: Helvectica;
+}
+
+p2 {
+  font-weight: bold;
+  color: blue;  
+
+}
+
+.position {
+    
 }
